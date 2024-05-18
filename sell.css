@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: rgb(0, 0, 0);
+    padding: 1rem;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.taitle {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.menu li {
+    margin: 0 1rem;
+    
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+.item-1 {
+    background-color: rgb(70, 67, 67);
+}
+
+.con-item {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.img-sell-1 img {
+    padding: 2rem;
+    width: 250px;
+    height: 300px;
+}
+
+.info-sell-1 {
+    margin: 4rem 1rem;
+    padding: 2rem;
+    color: white;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+}
+
+.info-sell-1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.item-2 {
+    background-color: rgb(70, 67, 67);
+}
+
+.img-sell-2 img {
+    padding: 2rem;
+    width: 250px;
+    height: 300px;
+}
+
+.info-sell-2 {
+    margin: 4rem 1rem;
+    padding: 2rem;
+    color: white;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+}
+
+.info-sell-2 a {
+    color: white;
+    text-decoration: none;
+}
+
+.item-3 {
+    background-color: rgb(70, 67, 67);
+}
+
+.img-sell-3 img {
+    padding: 2rem;
+    width: 250px;
+    height: 300px;
+}
+
+.info-sell-3 {
+    margin: 4rem 1rem;
+    padding: 2rem;
+    color: white;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+}
+
+.info-sell-3 a {
+    color: white;
+    text-decoration: none;
+}
